@@ -122,7 +122,7 @@ android.build_tools_version = 33.0.3
 
 
 # (str) Android NDK version to use
-android.ndk = 25b
+android.ndk = 28c
 
 
 
